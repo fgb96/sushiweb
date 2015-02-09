@@ -1,0 +1,21 @@
+{
+  "name": "sushiweb",
+  "version": "0.0.0",
+  "homepage": "https://github.com/fgb96/sushiweb",
+  "authors": [
+    "gomezbalastegui96@gmail.com"
+  ],
+  "main": "public/index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "sushiweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fgb96/sushiweb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fgb96/sushiweb/issues"
+  },
+  "homepage": "https://github.com/fgb96/sushiweb",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-bower-install": "^1.6.0"
+  }
+}
